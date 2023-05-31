@@ -16,10 +16,24 @@ class ArtworkSearcher:
         self.session = requests.Session()
         self.base_url = base_url
         self.page_url = page_url
-        
-    def search_urls(self):
+    
+    def find_by_rule(self):
+        return
+
+    def get_all_artwork_urls(self):
         request = self.session.get(self.page_url)
         soup = BeautifulSoup(request.content, "html.parser")
+        href_elements = soup.find_all('a')
+
+        # Get all href element 
+        for element in href_elements:
+            href = element.get('href')
+            refind = re.search(r"/artwork/([a-z-A-Z0-9]+)", href)
+            if not refind:
+                continue
+            artwork_url = refind.group(0)
+            self.artworks_url.add(artwork_url)
+        return self.artworks_url
 
 # Main Function
 def main():
