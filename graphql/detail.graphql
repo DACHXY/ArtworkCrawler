@@ -1,0 +1,88 @@
+query ArtworkDetailsQuery($slug: String!) {
+  artwork(id: $slug) {
+    ...ArtworkDetails_artwork
+    id
+  }
+}
+
+fragment ArtworkDetailsAboutTheWorkFromArtsy_artwork on Artwork {
+  description(format: HTML)
+  additionalInformation(format: HTML)
+}
+fragment ArtworkDetailsAdditionalInfo_artwork on Artwork {
+  category
+  series
+  publisher
+  manufacturer
+  image_rights: imageRights
+  canRequestLotConditionsReport
+  internalID
+  framed {
+    label
+    details
+  }
+  signatureInfo {
+    label
+    details
+  }
+  conditionDescription {
+    label
+    details
+  }
+  certificateOfAuthenticity {
+    label
+    details
+  }
+  mediumType {
+    __typename
+  }
+  dimensions {
+    in
+    cm
+  }
+  attributionClass {
+    name
+    id
+  }
+  medium
+  ...ArtworkDetailsMediumModal_artwork
+}
+
+fragment ArtworkDetailsArticles_artwork on Artwork {
+  articles(size: 10) {
+    author {
+      name
+      id
+    }
+    href
+    publishedAt(format: "MMM Do, YYYY")
+    thumbnailImage {
+      cropped(width: 200, height: 150) {
+        src
+        srcSet
+      }
+    }
+    thumbnailTitle
+    id
+  }
+}
+
+fragment ArtworkDetailsMediumModal_artwork on Artwork {
+  mediumType {
+    name
+    longDescription
+  }
+}
+
+fragment ArtworkDetails_artwork on Artwork {
+  ...ArtworkDetailsAboutTheWorkFromArtsy_artwork
+  ...ArtworkDetailsAdditionalInfo_artwork
+  ...ArtworkDetailsArticles_artwork
+  articles(size: 10) {
+    slug
+    id
+  }
+  literature(format: HTML)
+  exhibition_history: exhibitionHistory(format: HTML)
+  provenance(format: HTML)
+}
