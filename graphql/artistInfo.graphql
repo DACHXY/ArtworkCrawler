@@ -1,0 +1,145 @@
+query ArtistInfoQuery($slug: String!) {
+  artist(id: $slug) {
+    ...ArtistInfo_artist
+    id
+  }
+}
+fragment ArtistBio_bio on Artist {
+  biographyBlurb(format: HTML, partnerBio: false) {
+    credit
+    partnerID
+    text
+  }
+}
+fragment ArtistInfo_artist on Artist {
+  ...EntityHeaderArtist_artist
+  internalID
+  slug
+  image {
+    cropped(width: 45, height: 45) {
+      src
+      srcSet
+    }
+  }
+  counts {
+    partnerShows
+  }
+  exhibitionHighlights(size: 3) {
+    ...SelectedExhibitions_exhibitions
+    id
+  }
+  collections
+  highlights {
+    partnersConnection(
+      first: 10
+      displayOnPartnerProfile: true
+      representedBy: true
+      partnerCategory: ["blue-chip", "top-established", "top-emerging"]
+    ) {
+      edges {
+        node {
+          __typename
+          id
+        }
+        id
+      }
+    }
+  }
+  auctionResultsConnection(
+    recordsTrusted: true
+    first: 1
+    sort: PRICE_AND_DATE_DESC
+  ) {
+    edges {
+      node {
+        __typename
+        id
+      }
+    }
+  }
+  ...ArtistBio_bio
+  ...ArtistMarketInsights_artist
+  biographyBlurb(format: HTML, partnerBio: false) {
+    text
+  }
+}
+fragment ArtistMarketInsights_artist on Artist {
+  collections
+  highlights {
+    partnersConnection(
+      first: 10
+      displayOnPartnerProfile: true
+      representedBy: true
+      partnerCategory: ["blue-chip", "top-established", "top-emerging"]
+    ) {
+      edges {
+        node {
+          categories {
+            slug
+            id
+          }
+          id
+        }
+        id
+      }
+    }
+  }
+  auctionResultsConnection(
+    recordsTrusted: true
+    first: 1
+    sort: PRICE_AND_DATE_DESC
+  ) {
+    edges {
+      node {
+        price_realized: priceRealized {
+          display(format: "0.0a")
+        }
+        organization
+        sale_date: saleDate(format: "YYYY")
+        id
+      }
+    }
+  }
+}
+fragment EntityHeaderArtist_artist on Artist {
+  internalID
+  href
+  slug
+  name
+  initials
+  formattedNationalityAndBirthday
+  counts {
+    artworks
+    forSaleArtworks
+  }
+  avatar: image {
+    cropped(width: 45, height: 45) {
+      src
+      srcSet
+    }
+  }
+}
+fragment SelectedExhibitions_exhibitions on Show {
+  partner {
+    __typename
+    ... on ExternalPartner {
+      name
+      id
+    }
+    ... on Partner {
+      name
+    }
+    ... on Node {
+      __isNode: __typename
+      id
+    }
+  }
+  name
+  start_at: startAt(format: "YYYY")
+  cover_image: coverImage {
+    cropped(width: 800, height: 600) {
+      url
+    }
+  }
+  city
+}

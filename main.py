@@ -8,8 +8,9 @@ import json
 # Config
 TEMP_HTML_FILE_PATH = "TEMP.html"
 BASEURL: str = "https://www.artsy.net"
-URL: str = BASEURL + "/fair/1-54-new-york-2023/artworks"
-SEARCH_DETAIL_QL = open("graphql\detail.graphql").read()
+URL: str = BASEURL + "/collection/new-this-week"
+SEARCH_DETAIL_QL = open("graphql\\detail.graphql").read()
+ARTIST_INFO_QL = open("graphql\\artistInfo.graphql").read()
 
 
 class ArtworkSearcher:
@@ -71,9 +72,7 @@ def main():
 
 def get_page_detail():
     session = Session()
-    request = session.get(
-        "https://www.artsy.net/artwork/ekaterina-ermilkina-city-rain-1"
-    )
+    request = session.get("https://www.artsy.net/artwork/trenity-thomas-amicable")
     soup = BeautifulSoup(request.content, "html.parser")
 
     # 圖片
@@ -113,20 +112,34 @@ def get_page_detail():
     print("介紹:\t", description)
 
 
-def get_artwork_description():
+def get_artwork_artist_info(title):
+    session = Session()
+    req = session.post(
+        "https://metaphysics-production.artsy.net/v2",
+        json={
+            "id": "ArtistInfoQuery",
+            "query": ARTIST_INFO_QL,
+            "variables": {"slug": title},
+        },
+    )
+
+
+def get_artwork_description(title):
     session = Session()
     req = session.post(
         "https://metaphysics-production.artsy.net/v2",
         json={
             "id": "ArtworkDetailsQuery",
             "query": SEARCH_DETAIL_QL,
-            "variables": {"slug": "ekaterina-ermilkina-city-rain-1"},
+            "variables": {"slug": title},
         },
     )
+
     jsonList = json.loads(req.content)
     with open("TEST.json", "w", encoding="utf-8") as openfile:
         json.dump(jsonList, openfile, ensure_ascii=False, indent=4)
-    # print(jsonList["data"]["artwork"]["additionalInformation"])
+
+    return jsonList["data"]["artwork"]["additionalInformation"]
 
 
 if __name__ == "__main__":

@@ -4,7 +4,6 @@ query ArtworkDetailsQuery($slug: String!) {
     id
   }
 }
-
 fragment ArtworkDetailsAboutTheWorkFromArtsy_artwork on Artwork {
   description(format: HTML)
   additionalInformation(format: HTML)
@@ -47,7 +46,6 @@ fragment ArtworkDetailsAdditionalInfo_artwork on Artwork {
   medium
   ...ArtworkDetailsMediumModal_artwork
 }
-
 fragment ArtworkDetailsArticles_artwork on Artwork {
   articles(size: 10) {
     author {
@@ -66,14 +64,12 @@ fragment ArtworkDetailsArticles_artwork on Artwork {
     id
   }
 }
-
 fragment ArtworkDetailsMediumModal_artwork on Artwork {
   mediumType {
     name
     longDescription
   }
 }
-
 fragment ArtworkDetails_artwork on Artwork {
   ...ArtworkDetailsAboutTheWorkFromArtsy_artwork
   ...ArtworkDetailsAdditionalInfo_artwork
