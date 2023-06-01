@@ -3,7 +3,6 @@ from requests import Session, Response
 from bs4 import BeautifulSoup, ResultSet
 import re
 import json
-import os
 
 # Config
 TEMP_HTML_FILE_PATH = "TEMP.html"
@@ -242,6 +241,6 @@ def main():
 
 
 if __name__ == "__main__":
-    # __init__(STORE_FILE_NAME)
-    # main()
+    __init__(STORE_FILE_NAME)
+    main()
     __end__(STORE_FILE_NAME)
