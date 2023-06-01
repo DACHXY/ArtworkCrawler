@@ -1,0 +1,1275 @@
+[
+{
+    "artworkName": "street of marrakech morocco",
+    "artistInfo": {
+        "href": "/artist/girma-berta",
+        "slug": "girma-berta",
+        "name": "Girma Berta",
+        "formattedNationalityAndBirthday": "Ethiopian, b. 1990",
+        "counts": {
+            "artworks": 12,
+            "forSaleArtworks": 10,
+            "partnerShows": 12
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLjEFrMJcmdkAq1cL3vB9dg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLjEFrMJcmdkAq1cL3vB9dg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLjEFrMJcmdkAq1cL3vB9dg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 680000
+    },
+    "size": {
+        "in": "39 2/5 × 27 3/5 in",
+        "cm": "100 × 70 cm"
+    },
+    "description": null,
+    "additionalInformation": "<p>The Ethiopian Photographer Girma Berta wanted to capture the soul and energy of African capitals. Through his moving pictures, the artist suggests and reveals the dynamism and resilience of the inhabitants of this continent in full demographic boom. </p>\n",
+    "category": "Photography",
+    "material": "Photography",
+    "medium": "Photograph : Fujiflex print",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=799&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FiBWlxyU7qO9jvDRvWqMmbQ%2Fnormalized.jpg&width=566"
+    ]
+},
+{
+    "artworkName": "lean on me",
+    "artistInfo": {
+        "href": "/artist/cecilia-lamptey-botchway",
+        "slug": "cecilia-lamptey-botchway",
+        "name": "Cecilia Lamptey-Botchway",
+        "formattedNationalityAndBirthday": "Ghanaian, b. 1992",
+        "counts": {
+            "artworks": 40,
+            "forSaleArtworks": 18,
+            "partnerShows": 5
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyUjEWzuRw5Lh7opCx8oHGw%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyUjEWzuRw5Lh7opCx8oHGw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyUjEWzuRw5Lh7opCx8oHGw%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": "Submitted by Nubuke Foundation (Ghana)",
+            "partnerID": "nubuke-foundation-ghana",
+            "text": "<p>Cecilia Lamptey-Botchway (b. 1992, Ghanaian/ Nigerian) is an artist whose practice ranges from performance, textile design, painting to multi-media work. She graduated from the Yaba College of Technology, Yaba School of Art, Design, and Textiles in 2015.<br>In her recent works, Cecilia experiments with colour, incorporating and deriving meaning from symbols from cloth stamping and batik tradition, found objects and other materials like mopping wool. Cecilia almost creates a unique language with which she communicates her passions. She employs an intricate sense of geometry, a delicate perspective to achieve symmetry with colours, with the mixed media adding vibrant dimensions as props to her paintings.</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 900000
+    },
+    "size": {
+        "in": "53 1/10 × 50 2/5 in",
+        "cm": "135 × 128 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Mixed Media",
+    "material": "Mixed Media",
+    "medium": "Oil, Mopping wool fiber on Canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLpuzY0T-ybrcTGehdgbqtw%2Fnormalized.jpg&width=706"
+    ]
+},
+{
+    "artworkName": "my baby doll",
+    "artistInfo": {
+        "href": "/artist/cornelius-annor",
+        "slug": "cornelius-annor",
+        "name": "Cornelius Annor",
+        "formattedNationalityAndBirthday": "Ghanaian, b. 1990",
+        "counts": {
+            "artworks": 43,
+            "forSaleArtworks": 7,
+            "partnerShows": 7
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FAa-hQHCwk6RCNf_VgPCtZA%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FAa-hQHCwk6RCNf_VgPCtZA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FAa-hQHCwk6RCNf_VgPCtZA%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Ghanian painter Cornelius Annor is most widely known for his <a href=\"https://www.artsy.net/gene/group-portrait\">group portraits</a> that celebrate and explore the vibrancy of everyday life. Often working from childhood memories and family history, his paintings depict intimate, domestic settings where his figures are seen watching television, reading bedtime stories, or dancing together. Annor attended the esteemed Ghanatta College of Art and Design, where fellow artists <a href=\"https://www.artsy.net/artist/amoako-boafo\">Amoako Boafo</a> and <a href=\"https://www.artsy.net/artist/otis-kwame-kye-quaicoe\">Otis Kwame Kye Quaicoe</a> also studied. Annor’s work has been exhibited throughout Africa and the U.S., including at the Ghana National Museum and the Accra Art Center. Full of vibrant Ghanian patterns, his visual language results in a harmonious and stunning body of work.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "72 × 59 4/5 in",
+        "cm": "183 × 152 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Mixed media",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FVB-dU-uqmrCvmr3zxAnyFg%2Fnormalized.jpg&width=532"
+    ]
+},
+{
+    "artworkName": "princess",
+    "artistInfo": {
+        "href": "/artist/tschabalala-self",
+        "slug": "tschabalala-self",
+        "name": "Tschabalala Self",
+        "formattedNationalityAndBirthday": "American, b. 1990",
+        "counts": {
+            "artworks": 60,
+            "forSaleArtworks": 6,
+            "partnerShows": 20
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F1gq1WPxA4iuOVLjCv5qP1w%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F1gq1WPxA4iuOVLjCv5qP1w%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F1gq1WPxA4iuOVLjCv5qP1w%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": [
+            "Whitney Museum of American Art|Museum of Contemporary Art, Los Angeles (MOCA)|Hammer Museum|Studio Museum in Harlem"
+        ],
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Tschabalala Self’s layered portraits feature curvaceous Black figures amid flat, patterned planes and bright, solid color blocks. The artist builds her kaleidoscopic canvases through a bricolage of painting, printmaking, sewn textiles, and collaged cutouts; as she integrates craft elements into her paintings, she explores cultural perceptions and depictions of Black femininity. Self studied at Bard College before receiving her MFA in painting and printmaking from Yale. While those media remain the core of her practice, Self makes sculptures and installations as well. She has exhibited in New York, Los Angeles, London, Berlin, Naples, Brussels, and San Francisco, and her work belongs in the collections of the Astrup Fearnley Museet in Oslo, the HOW Art Museum in Shanghai, the <a href=\"https://www.artsy.net/partner/hammer-museum\">Hammer Museum</a> in Los Angeles, the LUMA Foundation, the <a href=\"https://www.artsy.net/partner/perez-art-museum-miami-pamm\">Pérez Art Museum Miami</a>, and the <a href=\"https://www.artsy.net/partner/yuz-museum\">Yuz Museum</a> in Shanghai. Self’s work has achieved six-figure prices at auction.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "50 4/5 × 40 1/5 in",
+        "cm": "129 × 102.2 cm"
+    },
+    "description": null,
+    "additionalInformation": "<p>129 x 102.2 cm (50 3/4 x 40 1/4 in.)</p>\n<p>Signed, dated and numbered 29/30 in black felt-tip pen on the label affixed to the reverse (there were also 2 artist&#39;s proofs), commissioned for The Art of Empowerment, UN Women UK, lacking the original dowel hanging rods, framed.</p>\n",
+    "category": "Textile Arts",
+    "material": "Textile Arts",
+    "medium": "Hand-sewn cotton and tulle quilt on cotton.",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FCRTUi3ljfa2Jn2Mo-b6-gQ%2Fnormalized.jpg&width=636"
+    ]
+},
+{
+    "artworkName": "dedos",
+    "artistInfo": {
+        "href": "/artist/ivana-de-vivanco",
+        "slug": "ivana-de-vivanco",
+        "name": "Ivana de Vivanco",
+        "formattedNationalityAndBirthday": "Chilean-Peruvian, b. 1989",
+        "counts": {
+            "artworks": 43,
+            "forSaleArtworks": 27,
+            "partnerShows": 17
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FD5E_UjcLLPm7tePXjWfbyQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FD5E_UjcLLPm7tePXjWfbyQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FD5E_UjcLLPm7tePXjWfbyQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": "Submitted by Galerie Kornfeld",
+            "partnerID": "galerie-kornfeld",
+            "text": "<p>Ivana de Vivanco (born in 1989, Lisbon), is a Chilean-Peruvian artist who completed her art studies at the Universidad de Chile with Gonzalo Díaz Cuevas. She moved to Germany in 2013, studying at the Academy of Visual Arts Leipzig with Oliver Kossack and graduating as a master student of Annette Schröter in 2016.<br>In her works we are presented with a complete reversal of roles – female characters sit center stage with decisive gazes and a powerful presence as representatives of Western colonial history find themselves trampled underneath the chaos they have created. &quot;The pieces of my last years of work strive to give form to fragments of the stories of Andean history in South America,&quot;stated the artist in a 2021 interview. &quot;They are impregnated with the aesthetic of Latin American Baroque, which has been probably the most colorful and painful Baroque of all since the wound of colonization has remained inscribed in it.&quot; </p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 340000
+    },
+    "size": {
+        "in": "11 4/5 × 15 7/10 × 1 3/5 in",
+        "cm": "30 × 40 × 4 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FEcpzSkbyBxY-sDgUArvM7Q%2Fnormalized.jpg&width=606"
+    ]
+},
+{
+    "artworkName": "nose ring ii",
+    "artistInfo": {
+        "href": "/artist/adjei-tawiah",
+        "slug": "adjei-tawiah",
+        "name": "Adjei Tawiah",
+        "formattedNationalityAndBirthday": "Ghanaian, b. 1987",
+        "counts": {
+            "artworks": 68,
+            "forSaleArtworks": 20,
+            "partnerShows": 10
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTl2UKMLRwpr-1MVDvAiALw%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTl2UKMLRwpr-1MVDvAiALw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTl2UKMLRwpr-1MVDvAiALw%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p><em>Submitted by <a href=\"https://www.artsy.net/partner/gallery-1957\">Gallery 1957</a>.</em></p>\n<p>Adjei Tawiah is a Ghanaian artist and alumnus of the prestigious Ghanatta College of Art and Design in Accra, Ghana. Tawiah is known and revered for his unique approach of using nylon sponge for vibrant figurative representations. Adjei Tawiah lives and works in Accra, Ghana, where he is inspired by his community and surroundings. His unique technique, which he has labeled “Sponge Martial,” is a practice inspired by the cleansing of his mother’s corpse in the mortuary. Tawiah channels this idea of cleansing through his work, the bright, vibrant colors a representation of the bright moments that follow the darker times in life. Tawiah hopes that by developing his artistic voice, his work will serve as a source of inspiration to humanity through times of affliction.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "39 2/5 × 29 9/10 in",
+        "cm": "100 × 76 cm"
+    },
+    "description": null,
+    "additionalInformation": "<p>sheet: 100 x 76cm</p>\n",
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Unique sponge and oil on paper",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FZ0PhSKO-8LzGVk4MekBItg%2Fnormalized.jpg&width=614"
+    ]
+},
+{
+    "artworkName": "fragments ii",
+    "artistInfo": {
+        "href": "/artist/frida-orupabo",
+        "slug": "frida-orupabo",
+        "name": "Frida Orupabo",
+        "formattedNationalityAndBirthday": "Norwegian, b. 1986",
+        "counts": {
+            "artworks": 44,
+            "forSaleArtworks": 32,
+            "partnerShows": 41
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmcsSwqv9v_y42xTGFvAOeg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmcsSwqv9v_y42xTGFvAOeg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmcsSwqv9v_y42xTGFvAOeg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": [
+            "Louisiana Museum of Art|Studio Museum in Harlem|Moderna Museet, Stockholm "
+        ],
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Held together by paper pins, Frida Orupabo’s surreal collages of fragmented, anonymous Black women address themes of race, gender, sexuality, violence, and colonialism. Drawing from her personal photo collection, early cinema stills, and news media, the Norwegian Nigerian artist and sociologist challenges the objectivity of these archives, highlighting how the Black female body has been constructed and misconstrued. Orupabo, who initially shared her collages on social media, exhibited her works for the first time in <a href=\"https://www.artsy.net/artist/arthur-jafa\">Arthur Jafa</a>’s 2017 exhibition “A Series of Utterly Improbable, Yet Extraordinary Renditions” at London’s <a href=\"https://www.artsy.net/partner/serpentine-galleries\">Serpentine Galleries</a>. Since then, she has shown in New York, Miami, Stockholm, Prague, Amsterdam, and Johannesburg, among other cities. In 2019, she participated in the Venice Biennale. Orupabo’s work has been acquired by the <a href=\"https://www.artsy.net/partner/guggenheim-museum\">Guggenheim Museum</a>, <a href=\"https://www.artsy.net/partner/perez-art-museum-miami-pamm\">Pérez Art Museum Miami</a>, <a href=\"https://www.artsy.net/partner/moderna-museet\">Moderna Museet</a>, the <a href=\"https://www.artsy.net/partner/museum-ludwig\">Museum Ludwig</a>, the Astrup Fearnley Museet, and the Zabludowicz Collection. The artist was featured in <a href=\"https://www.artsy.net/feature/artsy-vanguard-2020\">The Artsy Vanguard 2020</a>.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "68 9/10 × 46 1/10 × 2 2/5 in",
+        "cm": "175 × 117 × 6 cm"
+    },
+    "description": null,
+    "additionalInformation": "<p>Frida Orupabo explores themes of race, gender, sexuality, violence, the gaze, post-colonialism and identity working in media that in their nature are fragmented and multifarious. Employing image platforms including Instagram, YouTube, Facebook and Tumblr as both source and tool Orupabo engages in the simultaneously monolithic and splintered abundance of images that define race and gender. In their wiki-generated content and labile fluidity these platforms both reinforce and disrupt established norms.</p>\n<p>Although self-taught and working otherwise as a social worker in Oslo, Orupabo has for many years created digital collages which she cuts and manipulates, using photographs from personal archives and found images. This combination of sources connects her personal history to a collective story, the private and political, in a matrix of appropriated images.</p>\n",
+    "category": "Print",
+    "material": "Print",
+    "medium": "Pigment print on acid free semigloss paper, plexi frame",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FhjUl-crX6x93nqwZymK1wA%2Fnormalized.jpg&width=799",
+        "https://d7hftxdivxxvm.cloudfront.net?height=600&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FgE92RbXL_9-dQGG7_kJkDQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=600&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6TGsBQI4GioFh-uqxxV9UA%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fb_oqi8nUSMuhEtNWh_N5uQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FL4ALV1hSfb63vORo74_Z0w%2Fnormalized.jpg&width=600"
+    ]
+},
+{
+    "artworkName": "pinwheel",
+    "artistInfo": {
+        "href": "/artist/anne-carney-raines",
+        "slug": "anne-carney-raines",
+        "name": "Anne Carney Raines",
+        "formattedNationalityAndBirthday": "American, b. 1990",
+        "counts": {
+            "artworks": 29,
+            "forSaleArtworks": 4,
+            "partnerShows": 6
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FrbpRFW6z9ZL7NF7MT62FoQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FrbpRFW6z9ZL7NF7MT62FoQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FrbpRFW6z9ZL7NF7MT62FoQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 300000
+    },
+    "size": {
+        "in": "31 1/2 × 27 3/5 in",
+        "cm": "80 × 70 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=718&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FVFivOsZGTW1bEw7CzUKcyQ%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "rose",
+    "artistInfo": {
+        "href": "/artist/austin-lee",
+        "slug": "austin-lee",
+        "name": "Austin Lee",
+        "formattedNationalityAndBirthday": "American, b. 1983",
+        "counts": {
+            "artworks": 89,
+            "forSaleArtworks": 31,
+            "partnerShows": 27
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FP0-LcR6g1riScpB_-dY45g%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FP0-LcR6g1riScpB_-dY45g%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FP0-LcR6g1riScpB_-dY45g%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": [
+            "Moderna Museet, Stockholm "
+        ],
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Using both analog and digital processes, Austin Lee blends abstraction and figuration, humor and pathos, in exuberant paintings and sculptures that evoke the early internet. He initially mocks up many of his canvases using virtual reality modeling software (an update from Photoshop, which he used earlier in his career) and 3D prints many of his sculptures in bronze and plastic. Lee then recreates a distinctly digital aesthetic with airbrush and paintbrush. Working at small and large scales, the artist saturates his work with glowing, electric hues. Humans, animals, and hybrid creatures are frequent motifs, and Lee understands his compositions and hand-painted structures as animated representations of his own feelings. He studied at the Tyler School of Art in Philadelphia before receiving his MFA from Yale in 2013. Since then, he has exhibited in New York, Stockholm, London, Paris, Berlin, Beijing, Hong Kong, and Tokyo, among other cities.</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "PriceRange",
+        "maxPrice": {
+            "minor": 2000000
+        },
+        "minPrice": {
+            "minor": 1500000
+        }
+    },
+    "size": {
+        "in": "49 5/8 × 39 9/16 in",
+        "cm": "126 × 100.5 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Print",
+    "material": "Print",
+    "medium": "Watercolor and oil-based ink monotype",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=523&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FhHQxVHagp3e7VWeZca8EXQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fd3ZkfQTKHuyGoEfGKk0yyg%2Fnormalized.jpg&width=640",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FJDm8DbtrOfFQw5d9zk41Ag%2Fnormalized.jpg&width=640"
+    ]
+},
+{
+    "artworkName": "hojarasca morada",
+    "artistInfo": {
+        "href": "/artist/alejandra-venegas",
+        "slug": "alejandra-venegas",
+        "name": "Alejandra Venegas",
+        "formattedNationalityAndBirthday": "Mexican, b. 1986",
+        "counts": {
+            "artworks": 54,
+            "forSaleArtworks": 36,
+            "partnerShows": 7
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Ff2Soc5Tcb0zieVdCZV5DqA%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Ff2Soc5Tcb0zieVdCZV5DqA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Ff2Soc5Tcb0zieVdCZV5DqA%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 300000
+    },
+    "size": {
+        "in": "17 7/10 × 14 3/5 × 2 3/5 in",
+        "cm": "45 × 37.2 × 6.5 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Hand mand relief on cedar wood and assemble on willow wood gouache",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtXaYa40xK9t--TQDEvxMFA%2Fnormalized.jpg&width=640"
+    ]
+},
+{
+    "artworkName": "a study of flowers",
+    "artistInfo": {
+        "href": "/artist/milo-matthieu",
+        "slug": "milo-matthieu",
+        "name": "Milo Matthieu",
+        "formattedNationalityAndBirthday": "American, b. 1990",
+        "counts": {
+            "artworks": 9,
+            "forSaleArtworks": 7,
+            "partnerShows": 1
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtqywHHAK9uJTh5XzZHae6A%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtqywHHAK9uJTh5XzZHae6A%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtqywHHAK9uJTh5XzZHae6A%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>To produce his paintings and collages, Milo Matthieu practices “psychic autonomism”—an automatic artmaking process that was popular among <a href=\"https://www.artsy.net/gene/surrealism\">Surrealist</a> and <a href=\"https://www.artsy.net/gene/dada\">Dada</a> circles. The results are vivid, highly textured portraits and abstracted group scenes that come from unguarded, in-the-moment manifestations of his subconscious. Fractured faces and planes convey the artist’s often uneasy emotional terrain. In 2020, Matthieu completed the La Brea Studio Residency at The Cabin in Los Angeles. He has exhibited in Los Angeles, New York, Berlin, and London. Before committing to painting, Matthieu studied music and photography.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "36 × 48 in",
+        "cm": "91.4 × 121.9 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=612&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FfGQ-fm5CPoEfdkvXvOInGw%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fi4rvcT8yOhizXXCfE4W49w%2Fnormalized.jpg&width=618",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmnzPkAq3erz3EqPlW8EEkw%2Fnormalized.jpg&width=618",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FhnNdw5Qv6fuQeaFkvvphBA%2Fnormalized.jpg&width=618"
+    ]
+},
+{
+    "artworkName": "li wang oliver in italian restaurant",
+    "artistInfo": {
+        "href": "/artist/li-wang-2",
+        "slug": "li-wang-2",
+        "name": "Li Wang",
+        "formattedNationalityAndBirthday": "b. 1995",
+        "counts": {
+            "artworks": 21,
+            "forSaleArtworks": 8,
+            "partnerShows": 2
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FgGrEqUszjhFalGwpymz9vg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FgGrEqUszjhFalGwpymz9vg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FgGrEqUszjhFalGwpymz9vg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "50 × 62 × 2 in",
+        "cm": "127 × 157.5 × 5.1 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=633&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F7gTnPVap6NpW6QrMlbGQLw%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "shell",
+    "artistInfo": {
+        "href": "/artist/ce-jian",
+        "slug": "ce-jian",
+        "name": "Ce Jian",
+        "formattedNationalityAndBirthday": "German, b. 1984",
+        "counts": {
+            "artworks": 4,
+            "forSaleArtworks": 1,
+            "partnerShows": 31
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FySzGEmv-rbOFzoXX0yBEEQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FySzGEmv-rbOFzoXX0yBEEQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FySzGEmv-rbOFzoXX0yBEEQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "35 2/5 × 29 1/10 in",
+        "cm": "90 × 74 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Acrylic, spray paint, marker, oil pastel on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FUpOTnAzheIiDC1Ulwt0vUw%2Fnormalized.jpg&width=672"
+    ]
+},
+{
+    "artworkName": "lubec",
+    "artistInfo": {
+        "href": "/artist/lauren-luloff",
+        "slug": "lauren-luloff",
+        "name": "Lauren Luloff",
+        "formattedNationalityAndBirthday": "American, b. 1980",
+        "counts": {
+            "artworks": 55,
+            "forSaleArtworks": 26,
+            "partnerShows": 19
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FqYlMJNU9jDBr_xHvDRseaQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FqYlMJNU9jDBr_xHvDRseaQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FqYlMJNU9jDBr_xHvDRseaQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Lauren Luloff layers collaged fabric and paint onto bed sheets, creating delicate yet expressive paintings. For Luloff, the sheets reference “home, intimacy, dreams, and drama” and imbue her works with a host of formal qualities, “their crumpling acting as an <a href=\"/gene/impasto\">impasto</a> swoosh, or creating chiaroscuro,” she says. “Patterns from the sheets offer a harder edge line in contrast with my organic brush marks.” Her boldly expressive use of mixed-media harkens to <a href=\"/artist/robert-rauschenberg\">Robert Rauschenberg</a>’s “Combines”, while her color treatment has been compared to that of <a href=\"/gene/abstract-expressionism\">Abstract Expressionist</a> <a href=\"/artist/helen-frankenthaler\">Helen Frankenthaler</a>. By infusing personal significance into each work, Luloff depicts moments of fleeting, hazily beautiful remembrance. </p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "60 1/2 × 42 1/2 in",
+        "cm": "153.7 × 108 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Dyed Silk",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FunwFo1gboOEn-pBxEjTY9A%2Fnormalized.jpg&width=573"
+    ]
+},
+{
+    "artworkName": "katherine bradford primary boys suits",
+    "artistInfo": {
+        "href": "/artist/katherine-bradford-1",
+        "slug": "katherine-bradford-1",
+        "name": "Katherine Bradford",
+        "formattedNationalityAndBirthday": "American, b. 1942",
+        "counts": {
+            "artworks": 118,
+            "forSaleArtworks": 18,
+            "partnerShows": 29
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5yPa1IkRpgdP376gqsWLPQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5yPa1IkRpgdP376gqsWLPQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5yPa1IkRpgdP376gqsWLPQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": [
+            "The Metropolitan Museum of Art"
+        ],
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>New York-based Katherine Bradford paints luminous fields of color peopled with characters in action or in repose. Often they are swimming, flying, or floating. Bradford paints with a formal inventiveness and a shifting sense of figure and ground, giving narrative weight to her figures who may appear as heroes or lovers, families or couples, or isolated individuals. Her chromatic scenes, painted in many transparent layers of acrylic, transmit a light-filled quality and offer metaphorical possibilities for issues such as gender and universal humanity. Bradford is represented by Canada in New York and has had recent solo shows in Tokyo, Berlin, Milan, London and Paris. Her work is included in collections such as the Metropolitan Museum of Art, the Brooklyn Museum, the Dallas Museum of Art, the Menil Collection, and the Nerman Museum of Contemporary Art among others.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "10 × 8 in",
+        "cm": "25.4 × 20.3 cm"
+    },
+    "description": null,
+    "additionalInformation": "<p>Not Framed </p>\n<p>Courtesy of the artist and Canada, New York</p>\n<p>New York-based Katherine Bradford (b.1942) paints luminous fields of color filled with people in action or in repose–often swimming, flying, or floating. Bradford paints with a formal inventiveness and a shifting sense of figure and ground, giving narrative weight to her characters who may appear as heroes or lovers, families or couples,<br>businessmen or isolated individuals. Her chromatic scenes, painted in many transparent layers of acrylic, transmit a light-filled quality, and offer metaphorical possibilities as they veer between humor, pathos and abstraction. Bradford is represented by Canada and has exhibited widely at institutions such as: MoMA P.S. 1 and the Brooklyn Museum, NY. Her work is included in collections such as the Metropolitan Museum of Art, the Brooklyn Museum, the Dallas Museum of Art, the Menil Collection, the Nerman Museum of Contemporary Art, the Portland Museum of Art, among others. Recent museum exhibitions include a survey show at the Portland Museum of Art, Portland Maine which traveled to the Frye Museum in Seattle Washington. Bradford was awarded a Guggenheim Fellowship in 2011 and a Joan Mitchell Grant in 2012. Bradford lives and works in New York City and Brunswick, Maine.</p>\n",
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Silk screen Monnoprint",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=799&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FwTSxBvyMCXFBM6WEpBhgAw%2Fnormalized.jpg&width=691"
+    ]
+},
+{
+    "artworkName": "yoruba couple",
+    "artistInfo": {
+        "href": "/artist/david-driskell",
+        "slug": "david-driskell",
+        "name": "David Driskell",
+        "formattedNationalityAndBirthday": "American, 1931–2020",
+        "counts": {
+            "artworks": 81,
+            "forSaleArtworks": 62,
+            "partnerShows": 19
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTBD53T3YC4Pt0F6QRrhthw%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTBD53T3YC4Pt0F6QRrhthw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTBD53T3YC4Pt0F6QRrhthw%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": [
+            "Studio Museum in Harlem"
+        ],
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Artist, scholar, and curator David Driskell was one of the world’s leading authorities on African American art, and his academic work helped establish the study of Black artists as a distinct and legitimate field. Driskell is perhaps best known for organizing the groundbreaking 1976 exhibition “Two Centuries of Black American Art” at <a href=\"https://www.artsy.net/partner/los-angeles-county-museum-of-art\">LACMA</a>, which highlighted the work of Black artists long overlooked by the art establishment. A distinguished professor of art at the University of Maryland, he received a Presidential Medal of Honor in the Humanities in 2000 and was awarded membership to the American Academy of Arts and Sciences in 2018. Driskell studied under the acclaimed African American historian James A. Porter at Howard University, later receiving a scholarship to the Skowhegan School of Painting &amp; Sculpture and an MFA from the Catholic University of America. Working primarily in <a href=\"https://www.artsy.net/gene/painting\">painting</a> and <a href=\"https://www.artsy.net/gene/collage\">collage</a>, Driskell exhibited throughout the United States and abroad.</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 500000
+    },
+    "size": {
+        "in": "30 × 22 in",
+        "cm": "76.2 × 55.9 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Print",
+    "material": "Print",
+    "medium": "Acrylic Paint",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=601&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FKP9nWM5pzu_MNaDHyt1DsQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FRVUHDTxZnvRtGJZE8-23Ow%2Fnormalized.jpg&width=610"
+    ]
+},
+{
+    "artworkName": "fresco",
+    "artistInfo": {
+        "href": "/artist/julian-astelarra",
+        "slug": "julian-astelarra",
+        "name": "Julián Astelarra",
+        "formattedNationalityAndBirthday": "Argentine, b. 1983",
+        "counts": {
+            "artworks": 60,
+            "forSaleArtworks": 19,
+            "partnerShows": 4
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8pGrNAnqJO8qD7TsTk_1CA%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8pGrNAnqJO8qD7TsTk_1CA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8pGrNAnqJO8qD7TsTk_1CA%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 110000
+    },
+    "size": {
+        "in": "15 2/5 × 12 1/5 × 1 3/5 in",
+        "cm": "39 × 31 × 4.1 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Fresco and acrylic on cement",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FdDve6YAQ2qSdRAVmiiUyFg%2Fnormalized.jpg&width=666"
+    ]
+},
+{
+    "artworkName": "hello newman",
+    "artistInfo": {
+        "href": "/artist/ethan-cook",
+        "slug": "ethan-cook",
+        "name": "Ethan Cook",
+        "formattedNationalityAndBirthday": "American, b. 1983",
+        "counts": {
+            "artworks": 141,
+            "forSaleArtworks": 50,
+            "partnerShows": 27
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FIlw-w4z_DDgIu6lcWshOtg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FIlw-w4z_DDgIu6lcWshOtg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FIlw-w4z_DDgIu6lcWshOtg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Ethan Cook makes abstract, geometric “paintings” from sewn-together pieces of canvas, which he weaves from colored cotton and a four-harness floor loom. With this process, Cook unites a unique craft perspective with compositions that recall the color-blocked canvases of artists such as <a href=\"https://www.artsy.net/artist/mark-rothko\">Mark Rothko</a>, <a href=\"https://www.artsy.net/artist/peter-halley\">Peter Halley</a>, and <a href=\"https://www.artsy.net/artist/kasimir-severinovich-malevich\">Kasimir Malevich</a>. Cook has exhibited widely and enjoyed solo shows in New York, Stockholm, Seoul, Rome, London, Paris, and Los Angeles, among other cities. Throughout his practice, he challenges viewers to consider tactility and aesthetic process instead of seeking any specific subject matter. Cook has also made smaller works from swaths of handmade paper. </p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "60 × 50 in",
+        "cm": "152.4 × 127 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Hand woven cotton, copper and acrylic on aluminum",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=600&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5RQH0wczHTyWNsdYgSdZOQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F-T9Kamm399n-YgwVpjGeeg%2Fnormalized.jpg&width=599"
+    ]
+},
+{
+    "artworkName": "staring at night sky",
+    "artistInfo": {
+        "href": "/artist/ziping-wang",
+        "slug": "ziping-wang",
+        "name": "Ziping Wang",
+        "formattedNationalityAndBirthday": "Chinese, b. 1995",
+        "counts": {
+            "artworks": 33,
+            "forSaleArtworks": 3,
+            "partnerShows": 14
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FvuSQ5rjH0PUjmPBWa3057g%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FvuSQ5rjH0PUjmPBWa3057g%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FvuSQ5rjH0PUjmPBWa3057g%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Ziping Wang’s <a href=\"https://www.artsy.net/gene/painting\">paintings</a> are busy <a href=\"https://www.artsy.net/gene/collage\">collages</a> of patterns, objects, and abstract forms that evoke the information overload of the <a href=\"https://www.artsy.net/gene/digital-culture\">internet era</a>. Wang has exhibited in New York City, London, and in several cities in China since receiving her MFA in 2020 from Pratt Institute. Her works include hints of <a href=\"https://www.artsy.net/gene/old-masters\">Old Master</a> paintings as well as references from <a href=\"https://www.artsy.net/gene/asian-art\">East Asian art</a> and combine images of Western foodstuffs with those of popular Asian snacks. This fusion of cultures results in a maximalist aesthetic that seems to reach for alleviation of diasporic longing through satiation of physical hunger. Informed by the bold graphics of advertisements, Wang often alludes to digital art-making by adding gridded patterns that signal Photoshop’s checkerboard background; she plays with the physicality of her materials. At times she adds thick daubs of paint to her canvases, which often take on unconventional shapes. Her works are in collections including the <a href=\"https://www.artsy.net/partner/ica-miami\">Institute of Contemporary Art, Miami</a> and <a href=\"https://www.artsy.net/partner/x-museum\">X Museum</a> in Beijing.</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 1995000
+    },
+    "size": {
+        "in": "30 × 24 in",
+        "cm": "76.2 × 61 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=799&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F9aXfyQZzUJ_5Dbt7QpAz_Q%2Fnormalized.jpg&width=630"
+    ]
+},
+{
+    "artworkName": "balanco alicerce number",
+    "artistInfo": {
+        "href": "/artist/tatiana-blass",
+        "slug": "tatiana-blass",
+        "name": "Tatiana Blass",
+        "formattedNationalityAndBirthday": "Brazilian, b. 1979",
+        "counts": {
+            "artworks": 36,
+            "forSaleArtworks": 26,
+            "partnerShows": 6
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOqEyWZUyQwWWyUP5g13oOw%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOqEyWZUyQwWWyUP5g13oOw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOqEyWZUyQwWWyUP5g13oOw%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Tatiana Blass constructs complex abstract narratives with her performances, paintings, videos, and installations. For <em>Penelope</em> (2011), she took over an entire chapel and its courtyard with red carpet and yarn, leaving viewers to discern whether a loom in the apse is converting the chaotic tangles into the ordered textile, or vice versa. For her series “Half of the Speech on the Ground,” (2008-10), Blass altered musical instruments and rendered them silent: part performance and part sculpture (some of the pieces were fully realized by having musicians attempt to play them), these works aimed to explore the tension between construction and deconstruction, form and function. “The role of the artist is to provide some stimulation for new perspectives and reflection about the world,” she has said. “I think that it is to create a strange sensation, to create experiences other than day-to-day.”</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "PriceRange",
+        "maxPrice": {
+            "minor": 1500000
+        },
+        "minPrice": {
+            "minor": 1000000
+        }
+    },
+    "size": {
+        "in": "39 2/5 × 47 1/5 in",
+        "cm": "100 × 120 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Gouache and acrylic on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FI3mBZMdDzPp2ldwIc9BPzg%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fo5xPTQ6dhXUy00amIwuKIg%2Fnormalized.jpg&width=533",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F3pGL0CAEQfmI1dAyv0Oi_Q%2Fnormalized.jpg&width=560",
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F11Vny7Wgn01uaKHE2uQqGg%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "used to be close",
+    "artistInfo": {
+        "href": "/artist/adelisa-selimbasic",
+        "slug": "adelisa-selimbasic",
+        "name": "Adelisa Selimbašić",
+        "formattedNationalityAndBirthday": "Italian, b. 1996",
+        "counts": {
+            "artworks": 22,
+            "forSaleArtworks": 22,
+            "partnerShows": 8
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F_U-0qs9iSlhK5MEWLVzStQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F_U-0qs9iSlhK5MEWLVzStQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F_U-0qs9iSlhK5MEWLVzStQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": {
+        "__typename": "Money",
+        "minor": 300000
+    },
+    "size": {
+        "in": "20 × 16 in",
+        "cm": "50.8 × 40.6 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FH0aWFp5m15jNYTN3UMHycQ%2Fnormalized.jpg&width=637"
+    ]
+},
+{
+    "artworkName": "golden rescue",
+    "artistInfo": {
+        "href": "/artist/benjamin-spiers",
+        "slug": "benjamin-spiers",
+        "name": "Benjamin Spiers",
+        "formattedNationalityAndBirthday": "English, b. 1972",
+        "counts": {
+            "artworks": 21,
+            "forSaleArtworks": 14,
+            "partnerShows": 8
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQDyIl837f2UcBvuG6dV9Kw%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQDyIl837f2UcBvuG6dV9Kw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQDyIl837f2UcBvuG6dV9Kw%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Benjamin Spiers blends elements of <a href=\"https://www.artsy.net/gene/surrealism\">Surrealism</a>, <a href=\"https://www.artsy.net/gene/abstract-painting\">Abstraction</a>, and <a href=\"https://www.artsy.net/gene/cubism\">Cubism</a> in his masterful <a href=\"https://www.artsy.net/gene/figurative-painting\">figurative paintings</a>. As a student at Goldsmiths, University of London, Spiers was tutored by <a href=\"https://www.artsy.net/artist/peter-doig\">Peter Doig</a>, who inspired him to merge traditional painting techniques with modernist styles of figuration. The Cubist features and <a href=\"https://www.artsy.net/artist/salvador-dali\">Dalíesque</a> distortions of the central figure in <em><a href=\"https://www.artsy.net/artwork/benjamin-spiers-wink-bather\">Wink (bather)</a></em> (2017) are typical of Spiers’ experimental and <a href=\"https://www.artsy.net/gene/highly-detailed\">highly detailed paintings</a>. <a href=\"https://www.artsy.net/gene/mutated-bodies\">Mutated</a>, <a href=\"https://www.artsy.net/gene/attenuated-figure\">elongated</a>, and fractured body parts rendered with masterful evocations of light and shade are hallmarks of his work. Spiers occasionally paints <a href=\"https://www.artsy.net/gene/unsettling-1\">unsettling</a> <a href=\"https://www.artsy.net/gene/animal-portrait\">animal portraits</a>, such as <em><a href=\"https://www.artsy.net/artwork/benjamin-spiers-memories-of-rome\">Memories of Rome</a></em> (2020–21), which depicts <a href=\"https://www.artsy.net/gene/art-that-plays-with-scale\">a cat with unfeasibly large paws</a> and a tail of tightly curled human hair. Spiers was a finalist for the 6th Manifest International Painting Annual award in 2015.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "47 1/5 × 43 3/10 in",
+        "cm": "120 × 110 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on linen",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FBZqyZGqwGzahOGTYV8FzPw%2Fnormalized.jpg&width=744"
+    ]
+},
+{
+    "artworkName": "pineapple shirt",
+    "artistInfo": {
+        "href": "/artist/adjei-tawiah",
+        "slug": "adjei-tawiah",
+        "name": "Adjei Tawiah",
+        "formattedNationalityAndBirthday": "Ghanaian, b. 1987",
+        "counts": {
+            "artworks": 68,
+            "forSaleArtworks": 20,
+            "partnerShows": 10
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTl2UKMLRwpr-1MVDvAiALw%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTl2UKMLRwpr-1MVDvAiALw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTl2UKMLRwpr-1MVDvAiALw%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p><em>Submitted by <a href=\"https://www.artsy.net/partner/gallery-1957\">Gallery 1957</a>.</em></p>\n<p>Adjei Tawiah is a Ghanaian artist and alumnus of the prestigious Ghanatta College of Art and Design in Accra, Ghana. Tawiah is known and revered for his unique approach of using nylon sponge for vibrant figurative representations. Adjei Tawiah lives and works in Accra, Ghana, where he is inspired by his community and surroundings. His unique technique, which he has labeled “Sponge Martial,” is a practice inspired by the cleansing of his mother’s corpse in the mortuary. Tawiah channels this idea of cleansing through his work, the bright, vibrant colors a representation of the bright moments that follow the darker times in life. Tawiah hopes that by developing his artistic voice, his work will serve as a source of inspiration to humanity through times of affliction.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "59 1/10 × 47 1/5 in",
+        "cm": "150 × 120 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Sponge and oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FD8eXYLz8djeyubOuQSgXFw%2Fnormalized.jpg&width=649"
+    ]
+},
+{
+    "artworkName": "torn torn torn turn",
+    "artistInfo": {
+        "href": "/artist/richard-kennedy",
+        "slug": "richard-kennedy",
+        "name": "Richard Kennedy",
+        "formattedNationalityAndBirthday": "American, b. 1985",
+        "counts": {
+            "artworks": 45,
+            "forSaleArtworks": 31,
+            "partnerShows": 20
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOqt5xljXdpltNqYygmDJjQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOqt5xljXdpltNqYygmDJjQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOqt5xljXdpltNqYygmDJjQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "76 4/5 × 76 4/5 in",
+        "cm": "195 × 195 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Acrylic and oil on linen, net on aluminium frame",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FCIhRMaO0SnjMbin1zjojjQ%2Fnormalized.jpg&width=757"
+    ]
+},
+{
+    "artworkName": "bow hunting season in the bitterroot made me cry every year",
+    "artistInfo": {
+        "href": "/artist/andrea-joyce-heimer",
+        "slug": "andrea-joyce-heimer",
+        "name": "Andrea Joyce Heimer",
+        "formattedNationalityAndBirthday": "American, b. 1981",
+        "counts": {
+            "artworks": 69,
+            "forSaleArtworks": 10,
+            "partnerShows": 11
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fp6DnsmlLnUbBT7pLWykWrg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fp6DnsmlLnUbBT7pLWykWrg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fp6DnsmlLnUbBT7pLWykWrg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "60 × 80 in",
+        "cm": "152.4 × 203.2 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Acrylic, oil pastel on panel",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FWF7MoP9opzXFG2JJPssXYg%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=538&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fy68BhoCdUp3mmKLN7kfR_w%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=534&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FglUuktlZN2WoTO0Antz-RQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FDOTIkM4Udu7rDhGCeKqeuQ%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "my source of joy",
+    "artistInfo": {
+        "href": "/artist/deborah-segun",
+        "slug": "deborah-segun",
+        "name": "Deborah Segun",
+        "formattedNationalityAndBirthday": "Nigerian, b. 1994",
+        "counts": {
+            "artworks": 46,
+            "forSaleArtworks": 16,
+            "partnerShows": 11
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fc0C45IruMCM-YslYMLa_lQ%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fc0C45IruMCM-YslYMLa_lQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fc0C45IruMCM-YslYMLa_lQ%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p><em>Submitted by <a href=\"https://www.artsy.net/partner/beers-london\">Beers London</a>.</em></p>\n<p>Nigerian artist Deborah Segun adopts a deconstructed, reductive, and almost Cubist approach to her paintings, incorporating fragmented and exaggerated shapes, faces, and forms that delineate the female figure in contemplation or repose. Segun’s work exaggerates the feminine silhouette and is perhaps as much a commentary on the representation of women in an art historical context, (and the omission of black women therein) from the exaggerated proportions of the Venus of Willendorf or the multi-perspectival views of Picasso, who is an obvious inspiration to the young Lagos-based artist. More contemporary depictions of the African female form similarly adopt a deconstructed and vibrant view where the Black female form is a site for complex socio-political meaning. </p>\n<p>Segun’s work, however, is—at least for the time-being—slightly more internalized. There is an element of truth that many artists need to self-reflect before turning the lens outward. And while inspired by her personal experience, and her awareness of her mental and physical sense of self, Segun’s choice to focus on the individual becomes a reference point for a much larger schematic: transitions and phases in her life, including self-hate to self-acceptance, are undoubtedly issues that many women—African and otherwise—have experienced. There is a sense of a young artist and woman coming of age in these works—they are simultaneously vibrant but also codified, obscured, and protected. These works serve almost as a visual diary of how the young painter continues to define and redefine herself in a larger context. Segun describes her practice as a way of challenging reality and pushing herself to create alternative ways to position herself in contemporary art and society.</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "PriceRange",
+        "maxPrice": {
+            "minor": 1000000
+        },
+        "minPrice": {
+            "minor": 750000
+        }
+    },
+    "size": {
+        "in": "47 1/5 × 63 in",
+        "cm": "120 × 160 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Acrylic on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Flh8PCKdIhQ1lIyLPen0z-Q%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "thetha tati iv talk to me father",
+    "artistInfo": {
+        "href": "/artist/turiya-magadlela",
+        "slug": "turiya-magadlela",
+        "name": "Turiya Magadlela",
+        "formattedNationalityAndBirthday": "South African, b. 1978",
+        "counts": {
+            "artworks": 76,
+            "forSaleArtworks": 30,
+            "partnerShows": 19
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOPXG-hnIdWCqU_r9gJ-R_A%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOPXG-hnIdWCqU_r9gJ-R_A%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOPXG-hnIdWCqU_r9gJ-R_A%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": [
+            "Studio Museum in Harlem"
+        ],
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Employing art-making techniques traditionally associated with femininity and craft, the South African artist Turiya Magadlela sews and embroiders nylon pantyhose, correctional service uniforms, prison sheets, and other conceptually loaded fabrics to address issues that shape a gendered and racialized society. Magadlela studied at the University of Johannesburg and Rijksakademie, Amsterdam. Since winning the FNB Art Prize in 2015, she has shown at the 2016 Armory Show and exhibited around the world. Her work was included in the acclaimed group show “Blue Black,” curated by artist <a href=\"https://www.artsy.net/artist/glenn-ligon/works-for-sale\">Glenn Ligon</a> at the Pulitzer Arts Foundation in St. Louis. Magadlela cuts, stitches, and folds her materials across wooden frames to create multilayered abstract compositions. Drawing from her experiences as a Black woman and a mother as well as from Black South African history, Magadlela’s works serve as vibrant celebrations of Black womanhood while simultaneously suggesting the implicit eroticization of and violence against the Black body.</p>\n"
+        }
+    },
+    "Prices": {
+        "__typename": "PriceRange",
+        "maxPrice": {
+            "minor": 2000000
+        },
+        "minPrice": {
+            "minor": 1500000
+        }
+    },
+    "size": {
+        "in": "79 × 79 in",
+        "cm": "200.7 × 200.7 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Mixed Media",
+    "material": "Mixed Media",
+    "medium": "Nylon pantyhose on cotton duck canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FUJj1Ppa5l-Q-pYUBZBi9Yw%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "untitled",
+    "artistInfo": {
+        "href": "/artist/fidelis-joseph",
+        "slug": "fidelis-joseph",
+        "name": "Fidelis Joseph",
+        "formattedNationalityAndBirthday": "Nigerian, b. 1992",
+        "counts": {
+            "artworks": 12,
+            "forSaleArtworks": 1,
+            "partnerShows": 2
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FqxAkSPEAT2rcp19DAEjYYg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FqxAkSPEAT2rcp19DAEjYYg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FqxAkSPEAT2rcp19DAEjYYg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": ""
+        }
+    },
+    "Prices": {
+        "__typename": "PriceRange",
+        "maxPrice": {
+            "minor": 750000
+        },
+        "minPrice": {
+            "minor": 500000
+        }
+    },
+    "size": {
+        "in": "48 × 48 in",
+        "cm": "122 × 122 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil, oil bar, auto paint on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F3Yt_5CsE6IjsH8bdkIJktw%2Fnormalized.jpg&width=800"
+    ]
+},
+{
+    "artworkName": "tulips on mustard black",
+    "artistInfo": {
+        "href": "/artist/luke-edward-hall",
+        "slug": "luke-edward-hall",
+        "name": "Luke Edward Hall",
+        "formattedNationalityAndBirthday": "British, b. 1989",
+        "counts": {
+            "artworks": 15,
+            "forSaleArtworks": 14,
+            "partnerShows": 13
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtVrEUGdiy7OdhadbL5Q62A%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtVrEUGdiy7OdhadbL5Q62A%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FtVrEUGdiy7OdhadbL5Q62A%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>An artist, <a href=\"https://www.artsy.net/gene/design\">designer</a>, and columnist, Luke Edward Hall creates playful <a href=\"https://www.artsy.net/gene/still-life\">still lifes</a> and <a href=\"https://www.artsy.net/gene/portrait\">portraits</a> of young men surrounded by <a href=\"https://www.artsy.net/gene/flora\">flowers</a> using <a href=\"https://www.artsy.net/gene/pastel\">pastels</a>, gouache, and <a href=\"https://www.artsy.net/gene/watercolor\">watercolors</a>. Deeply inspired by elements of fantasy, <a href=\"https://www.artsy.net/gene/romanticism\">romanticism</a>, and other aesthetic movements from European <a href=\"https://www.artsy.net/gene/references-to-art-history\">art history</a>, Hall hints obliquely at <a href=\"https://www.artsy.net/gene/implied-narrative\">narrative</a> through his colorful <a href=\"https://www.artsy.net/gene/work-on-paper\">works on paper</a>. <em><a href=\"https://www.artsy.net/artwork/luke-edward-hall-boy-with-sunflowers\">Boy with Sunflowers</a></em> (2021) shows the outline of a <a href=\"https://www.artsy.net/gene/human-figure\">figure</a> gazing calmly at the viewer with his head resting in his palm. Sunflowers in deep yellow and orange float gently around the subject, while green accents provide the barest suggestion of the flowers’ leaves and stems. Hall founded his own design studio in 2015, and has since worked on commissions ranging from interior design and <a href=\"https://www.artsy.net/gene/related-to-fashion\">fashion campaigns</a> to <a href=\"https://www.artsy.net/gene/murals-and-wall-drawings\">murals</a> and illustrations. In 2019, Hall released his first book, titled <em>Greco Disco: The Art &amp; Design of Luke Edward Hall</em>, which showcased some of the artist’s favorite works to date.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "24 × 18 1/10 in",
+        "cm": "61 × 46 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Acrylic on  canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6WzhFxkpLNKtqLDak_6BbA%2Fnormalized.jpg&width=650"
+    ]
+},
+{
+    "artworkName": "baba",
+    "artistInfo": {
+        "href": "/artist/shaina-mccoy",
+        "slug": "shaina-mccoy",
+        "name": "Shaina McCoy",
+        "formattedNationalityAndBirthday": "b. 1993",
+        "counts": {
+            "artworks": 14,
+            "forSaleArtworks": 3,
+            "partnerShows": 11
+        },
+        "avatar": {
+            "cropped": {
+                "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5aT-byAuTX1IXOtmJf-KFg%2Flarge.jpg&width=45",
+                "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5aT-byAuTX1IXOtmJf-KFg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5aT-byAuTX1IXOtmJf-KFg%2Flarge.jpg&width=90 2x"
+            }
+        },
+        "collections": null,
+        "biographyBlurb": {
+            "credit": null,
+            "partnerID": null,
+            "text": "<p>Shaina McCoy works from photographs to paint her family members in thick, expressive brushstrokes. While her source material is deeply personal, McCoy renders her subjects without faces, inviting her viewers to project themselves and their own relatives into her scenes. The artist has exhibited in San Francisco, Minneapolis, Denver, and Brussels. She has also collaborated with the fashion line Kith on a line of apparel and created “I Voted” stickers with <em>New York</em> magazine in 2020. As she depicts subjects from many stages of life and employs a wide range of skin tones and compositional styles, McCoy thematizes the diversity and complexity of Black families and experience.</p>\n"
+        }
+    },
+    "Prices": null,
+    "size": {
+        "in": "30 × 24 × 4/5 in",
+        "cm": "76.2 × 61 × 2 cm"
+    },
+    "description": null,
+    "additionalInformation": null,
+    "category": "Painting",
+    "material": "Painting",
+    "medium": "Oil on canvas",
+    "images": [
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Ftg4ynDCRd5dgM3AT3MjgTA%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=531&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fn6cjtWyjJ5FszoVr31E2bw%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=555&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FH7s2UsZwIJj5-QLhuaZehQ%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=518&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FwD6NEjAlLigukcB7-eCuHw%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=533&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FbXgiEPS2EBw3aqYngklWgg%2Fnormalized.jpg&width=800",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FgKLK-6o7CyPTrkkyH8M7gg%2Fnormalized.jpg&width=659",
+        "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FW29nERwMuNMkDEnZF6Sdrw%2Fnormalized.jpg&width=644",
+        "https://d7hftxdivxxvm.cloudfront.net?height=555&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FXir2jkQAphNwl1DWNaWmtA%2Fnormalized.jpg&width=800"
+    ]
+}
+]

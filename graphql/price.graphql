@@ -1,0 +1,41 @@
+query PricingContextQuery($slug: String!) {
+  artwork(id: $slug) {
+    ...PricingContext_artwork
+    id
+  }
+}
+fragment PricingContext_artwork on Artwork {
+  listPrice {
+    __typename
+    ... on PriceRange {
+      maxPrice {
+        minor
+      }
+      minPrice {
+        minor
+      }
+    }
+    ... on Money {
+      minor
+    }
+  }
+  artists {
+    slug
+    id
+  }
+  category
+  pricingContext {
+    appliedFiltersDisplay
+    appliedFilters {
+      dimension
+      category
+    }
+    bins {
+      maxPrice
+      maxPriceCents
+      minPrice
+      minPriceCents
+      numArtworks
+    }
+  }
+}
