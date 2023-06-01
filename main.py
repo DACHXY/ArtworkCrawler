@@ -6,6 +6,7 @@ import json
 
 # Config
 BASEURL: str = "https://www.artsy.net"
+URL: str = BASEURL + "/collection/new-this-week"
 API_URL: str = "https://metaphysics-production.artsy.net/v2"
 STORE_FILE_NAME = "data/Artworks.json"
 
