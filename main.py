@@ -5,9 +5,7 @@ import re
 import json
 
 # Config
-TEMP_HTML_FILE_PATH = "TEMP.html"
 BASEURL: str = "https://www.artsy.net"
-URL: str = BASEURL + "/collection/new-this-week"
 API_URL: str = "https://metaphysics-production.artsy.net/v2"
 STORE_FILE_NAME = "data/Artworks.json"
 
