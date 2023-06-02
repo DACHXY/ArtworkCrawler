@@ -6,9 +6,10 @@ import json
 
 # Config
 BASEURL: str = "https://www.artsy.net"
-URL: str = BASEURL + "/collection/new-this-week"
+URL: str = BASEURL + "/collect"
 API_URL: str = "https://metaphysics-production.artsy.net/v2"
 STORE_FILE_NAME = "data/Artworks.json"
+STORE_ARTIST_NAME = "data/Artists.json"
 
 # graph QL
 SEARCH_DETAIL_QL = open("graphql/detail.graphql").read()
@@ -164,6 +165,7 @@ def main():
         regex_str=r"/artwork/([a-z-A-Z0-9]+)",
     )
     page_names = artworkSearcher.get_all_page_name()
+    artists_href = set()
 
     for page_name in page_names:
         # 獲取頁面 Content
@@ -214,7 +216,7 @@ def main():
         # 獲取 作品材質
         print("\r獲取 作品材質", end="")
         artwork_material = artwork_detail_reponse["data"]["artwork"]["mediumType"][
-            "name"
+            "longDescription"
         ]
 
         # 獲取 作品的媒介
@@ -223,7 +225,7 @@ def main():
 
         artwork = {
             "artworkName": artwork_name,
-            "artistInfo": artist_info,
+            "artistName": artist_name,
             "Prices": artwork_prices,
             "size": artwork_size,
             "description": artwork_description,
@@ -236,10 +238,17 @@ def main():
 
         print("\r寫入檔案", end="")
         wirte_to_file(artwork, STORE_FILE_NAME)
+
+        if artist_info["href"] not in artists_href:
+            artists_href.add(artist_info["href"])
+            wirte_to_file(artist_info, STORE_ARTIST_NAME)
+
         print("\r" + artwork_name + " ==> 完成")
 
 
 if __name__ == "__main__":
     __init__(STORE_FILE_NAME)
+    __init__(STORE_ARTIST_NAME)
     main()
     __end__(STORE_FILE_NAME)
+    __end__(STORE_ARTIST_NAME)

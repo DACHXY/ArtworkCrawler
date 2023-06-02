@@ -1,0 +1,380 @@
+[
+{
+    "href": "/artist/becky-yazdan",
+    "slug": "becky-yazdan",
+    "name": "Becky Yazdan",
+    "formattedNationalityAndBirthday": "American, b. 1977",
+    "counts": {
+        "artworks": 24,
+        "forSaleArtworks": 22,
+        "partnerShows": 6
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fh4d419d_L44JsqQnErYUxw%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fh4d419d_L44JsqQnErYUxw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fh4d419d_L44JsqQnErYUxw%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>The canvases of Becky Yazdan conjure the interior world of personal memories, which she evokes without illustrating specific details. The Brooklyn-based artist creates layered compositions based subject matter from her daily life: books, TV shows, dreams, and past experiences. She works by combining color, form, and pattern, both intuitively and intentionally, digging up sensations as intangible as the fist time she ever told a lie or the specific color of a beloved childhood bathing suit. “The paintings are like dreams,” Yazdan has said of her work. “The events of the day [are] reorganized and combined with other events and memories until a new, often surprising, reality has taken shape.”</p>\n"
+    }
+},
+{
+    "href": "/artist/andy-warhol",
+    "slug": "andy-warhol",
+    "name": "Andy Warhol",
+    "formattedNationalityAndBirthday": "American, 1928–1987",
+    "counts": {
+        "artworks": 8018,
+        "forSaleArtworks": 3091,
+        "partnerShows": 949
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FE-k-uLoQADM8AjadsSKHrA%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FE-k-uLoQADM8AjadsSKHrA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FE-k-uLoQADM8AjadsSKHrA%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": [
+        "Museum of Modern Art (MoMA)|Centre Pompidou|Tate|Solomon R. Guggenheim Museum|Whitney Museum of American Art|The Metropolitan Museum of Art|Leeum - Samsung Museum of Art|M+|National Gallery of Art, Washington, D.C.|Guggenheim Museum Bilbao|Louisiana Museum of Art|San Francisco Museum of Modern Art (SFMOMA)|Hirshhorn Museum and Sculpture Garden|Museum of Contemporary Art, Los Angeles (MOCA)|Museu d'Art Contemporani de Barcelona (MACBA)|Studio Museum in Harlem|Dallas Museum of Art|Museo Reina Sofia|Art Institute of Chicago|Nasher Sculpture Center|Jewish Museum|MCA Chicago|Moderna Museet, Stockholm "
+    ],
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Obsessed with <a href=\"https://www.artsy.net/artist-series/andy-warhol-celebrity-portraits\">celebrity</a>, consumer culture, and mechanical reproduction, <a href=\"https://www.artsy.net/gene/pop-art\">Pop artist</a> Andy Warhol created some of the 20th century’s most iconic images. He drew widely from popular culture and everyday subject matter in his most famous works: his <a href=\"https://www.artsy.net/artist-series/andy-warhol-campbells-soup-cans\">32 Campbell&#39;s soup cans</a>, <a href=\"https://www.artsy.net/artist-series/andy-warhol-brillo-boxes\">Brillo pad box sculptures</a>, and portraits of <a href=\"https://www.artsy.net/artist-series/andy-warhol-marilyn-monroe\">Marilyn Monroe</a> and Elizabeth Taylor, for example. Rejecting the dominant painting and sculpting modes of his day, Warhol embraced silk-screen printmaking to achieve his characteristic hard edges and flat areas of color. The artist mentored <a href=\"https://www.artsy.net/artist/keith-haring\">Keith Haring</a> and <a href=\"https://www.artsy.net/artist/jean-michel-basquiat\">Jean-Michel Basquiat</a> and continues to influence contemporary art around the world: His provocative successors include <a href=\"https://www.artsy.net/artist/richard-prince\">Richard Prince</a>, <a href=\"https://www.artsy.net/artist/takashi-murakami\">Takashi Murakami</a>, and <a href=\"https://www.artsy.net/artist/jeff-koons\">Jeff Koons</a>. Warhol has been the subject of exhibitions at the <a href=\"https://www.artsy.net/whitneymuseum\">Whitney Museum of American Art</a>, <a href=\"https://www.artsy.net/museum-of-modern-art\">Museum of Modern Art</a>, <a href=\"https://www.artsy.net/tate\">Tate Modern</a>, and <a href=\"https://www.artsy.net/centrepompidou\">Centre Pompidou</a>, among other institutions. His works have sold for upwards of $100 million at auction.</p>\n"
+    }
+},
+{
+    "href": "/artist/shepard-fairey",
+    "slug": "shepard-fairey",
+    "name": "Shepard Fairey",
+    "formattedNationalityAndBirthday": "American, b. 1970",
+    "counts": {
+        "artworks": 5528,
+        "forSaleArtworks": 1702,
+        "partnerShows": 286
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fhxbe6HhWrUIf2gMP3gLgPw%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fhxbe6HhWrUIf2gMP3gLgPw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fhxbe6HhWrUIf2gMP3gLgPw%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": [
+        "San Francisco Museum of Modern Art (SFMOMA)|Art Institute of Chicago"
+    ],
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>A major figure of the contemporary <a href=\"https://www.artsy.net/gene/street-art\">street art</a> movement, Shepard Fairey rose to prominence in the early 1990s with his “<a href=\"https://www.artsy.net/artist-series/shepard-fairey-obey-andre-the-giant\">Andre the Giant Has a Posse</a>” campaign, which distributed posters, stickers, and murals featuring the eponymous wrestler around Providence, Rhode Island. Fairey’s iconic 2008 “Hope” campaign poster for <a href=\"https://www.artsy.net/artist-series/shepard-fairey-obey-barack-obama\">President Barack Obama</a> encapsulates a number of the artist’s recurring concerns, including propaganda, portraiture, and <a href=\"https://www.artsy.net/artist-series/shepard-fairey-obey-political-portraits\">political power</a>. Fairey’s work, which has sold for six figures at auction, can be found in the collections of the <a href=\"https://www.artsy.net/museum-of-modern-art\">Museum of Modern Art</a> in New York, the <a href=\"https://www.artsy.net/v_and_a\">Victoria and Albert Museum</a> in London, and the National Portrait Gallery in Washington, D.C. </p>\n"
+    }
+},
+{
+    "href": "/artist/unknown-artist",
+    "slug": "unknown-artist",
+    "name": "Unknown Artist",
+    "formattedNationalityAndBirthday": "",
+    "counts": {
+        "artworks": 2149,
+        "forSaleArtworks": 1097,
+        "partnerShows": 303
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQFpshEBp57wIlmyQ1z4Z0g%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQFpshEBp57wIlmyQ1z4Z0g%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQFpshEBp57wIlmyQ1z4Z0g%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": [
+        "Museum of Modern Art (MoMA)|Whitney Museum of American Art|The Metropolitan Museum of Art|San Francisco Museum of Modern Art (SFMOMA)|Art Institute of Chicago"
+    ],
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": ""
+    }
+},
+{
+    "href": "/artist/linling-lu",
+    "slug": "linling-lu",
+    "name": "Linling Lu",
+    "formattedNationalityAndBirthday": "Chinese, b. 1983",
+    "counts": {
+        "artworks": 115,
+        "forSaleArtworks": 78,
+        "partnerShows": 13
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8WSjl-xRw6LKYo3Je6uvsA%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8WSjl-xRw6LKYo3Je6uvsA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8WSjl-xRw6LKYo3Je6uvsA%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Linling Lu is best known for her <a href=\"https://www.artsy.net/gene/hard-edged-1\">hard-edge</a>, circular <a href=\"https://www.artsy.net/gene/abstract-painting\">abstract paintings</a> with concentric rings of color. Her human-scale <a href=\"https://www.artsy.net/gene/tondo\">tondos</a> have been described as inducing states of meditation. Lu’s work also includes sculptures of interlocking wood blocks, as well as paintings and fabric collages that reflect her <a href=\"https://www.artsy.net/gene/china\">Chinese</a> heritage. The artist earned a BA in landscape architecture from Beijing Forestry University in 2005 before moving to the U.S. She graduated with a BFA (2008) and MFA (2011) from the Maryland Institute College of Art. Her abstractions have been compared to the <a href=\"https://www.artsy.net/gene/washington-color-school\">Washington Color School</a> painters such as <a href=\"https://www.artsy.net/artist/kenneth-noland\">Kenneth Noland</a>. Lu’s past group exhibitions include “Extravagant Visions” at Towson University’s Center for the Arts (2018) and “Sign Systems” at the Kohl Gallery at Washington College (2019). Her work is held in the permanent collection of the U.S. Embassy in Beijing.</p>\n"
+    }
+},
+{
+    "href": "/artist/pichiavo",
+    "slug": "pichiavo",
+    "name": "PichiAvo",
+    "formattedNationalityAndBirthday": "Spanish, Collaborating since 2007",
+    "counts": {
+        "artworks": 243,
+        "forSaleArtworks": 110,
+        "partnerShows": 18
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOzSjF9D6gOdPXXFJQqrN5w%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOzSjF9D6gOdPXXFJQqrN5w%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOzSjF9D6gOdPXXFJQqrN5w%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>PichiAvo are a street-art duo who have gained international acclaim for their large-scale murals and sculptural installations that fuse classical art and Greek mythology with contemporary graffiti aesthetics. Since 2007, the pair have collaborated to make work that pays homage to the techniques and figuration of Renaissance masters. They add a modern finish to their works with vibrant bursts of colorful spray paint and lettering inspired by graffiti pioneers like Dondi and Crash. PichiAvo have installed works in Germany, Portugal, Australia, Canada, and the United Kingdom. Notable past projects include the Houston Bowery Wall in New York City and an 85-foot high sculpture for the Fallas Festival in their native Valencia, Spain. In addition to street art, PichiAvo also create mixed-media paintings and sculptures.</p>\n"
+    }
+},
+{
+    "href": "/artist/jennifer-marman-and-daniel-borins",
+    "slug": "jennifer-marman-and-daniel-borins",
+    "name": "Jennifer Marman and Daniel Borins",
+    "formattedNationalityAndBirthday": "Canadian, 1965 and 1974",
+    "counts": {
+        "artworks": 15,
+        "forSaleArtworks": 15,
+        "partnerShows": 5
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FWasotbvQmk07NgoEmTVz-Q%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FWasotbvQmk07NgoEmTVz-Q%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FWasotbvQmk07NgoEmTVz-Q%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Multi- and new-media artists Jennifer Marman and Daniel Borins have been collaborating since 2000 in producing works in multiple dimensions. Marman and Borins’ styles and materials have varied widely, ranging from text to geometric abstraction, <a href=\"/gene/oil-painting\">oil painting</a> to multi-channel videos.  Many of their pieces orbit around common themes of contemporary culture, politics, mass media, and consumerism, and frequently borrow images or motifs from these sources. The two artists are perhaps best known for large-scale installations that act as interventions within their surroundings, or pieces that are humorously though provocatively political. “We&#39;re being referred to as project artists now,” Borins has said. “And we’re thinking of ourselves, more and more, as activists.” </p>\n"
+    }
+},
+{
+    "href": "/artist/damien-hirst",
+    "slug": "damien-hirst",
+    "name": "Damien Hirst",
+    "formattedNationalityAndBirthday": "British, b. 1965",
+    "counts": {
+        "artworks": 4189,
+        "forSaleArtworks": 1491,
+        "partnerShows": 587
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTLj5ypujA8_sBmcjWw6cRw%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTLj5ypujA8_sBmcjWw6cRw%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTLj5ypujA8_sBmcjWw6cRw%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": [
+        "Museum of Modern Art (MoMA)|Tate|Leeum - Samsung Museum of Art|National Gallery of Art, Washington, D.C.|Louisiana Museum of Art|Hirshhorn Museum and Sculpture Garden|Art Institute of Chicago|MCA Chicago|Moderna Museet, Stockholm "
+    ],
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Damien Hirst, a poster boy for the <a href=\"https://www.artsy.net/gene/young-british-artists-ybas\">Young British Artists</a> who rose to prominence in late 1980s London, is one of the most notorious artists of his generation. He has pushed the limits of fine art and good taste with sculptures that comprise dead animals submerged in formaldehyde; innumerable spot paintings that appear mass-produced and can sell for millions of dollars; and the exuberantly tacky <em>For the Love of God</em> (2007), a human <a href=\"https://www.artsy.net/collection/damien-hirst-skulls\">skull</a> studded with 8,601 diamonds. Through his installations, sculptures, drawings, and paintings, Hirst explores themes including religion, mortality, and desire. Since 1988, when the artist developed and curated “Freeze,” a groundbreaking exhibition of his work and that of his Goldsmiths College peers, he has been the subject of major shows at <a href=\"https://www.artsy.net/tate\">Tate Modern</a> in London, the <a href=\"https://www.artsy.net/ngadc\">National Gallery of Art</a> in Washington, D.C., and the <a href=\"https://www.artsy.net/rijksmuseum\">Rijksmuseum</a> in Amsterdam. In 2008, Hirst controversially staged “Beautiful Inside my Head Forever,” an auction in which he sold his work directly to the public and raked in around $200 million for himself. His individual works have sold for more than $10 million at auction.</p>\n"
+    }
+},
+{
+    "href": "/artist/cristina-camacho",
+    "slug": "cristina-camacho",
+    "name": "Cristina Camacho",
+    "formattedNationalityAndBirthday": "Colombian, b. 1987",
+    "counts": {
+        "artworks": 20,
+        "forSaleArtworks": 18,
+        "partnerShows": 7
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2py2SL2JrhNqqfbNgHKLcQ%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2py2SL2JrhNqqfbNgHKLcQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2py2SL2JrhNqqfbNgHKLcQ%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": ""
+    }
+},
+{
+    "href": "/artist/arne-quinze",
+    "slug": "arne-quinze",
+    "name": "Arne Quinze",
+    "formattedNationalityAndBirthday": "Belgian, b. 1971",
+    "counts": {
+        "artworks": 53,
+        "forSaleArtworks": 29,
+        "partnerShows": 25
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FDbpv5kUcFR-rEr-DHKzBEA%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FDbpv5kUcFR-rEr-DHKzBEA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FDbpv5kUcFR-rEr-DHKzBEA%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Arne Quinze produces public sculptures, drawings, paintings, and large-scale installations that promote communication and social interaction, reflecting his innate idealism and optimism in regards to social cohesion. For instance, his series “My Home My House my Stilthouse” (2009-), consisting of various shelter-evoking constructions, explored the natural human exploration to carve out territory (a home), erect walls (a house), and ultimately seek such status and protection that we build our houses so high that no one can reach us (a stilthouse). As with all his installations, Quinze intends to provoke reactions from passersby, in this case inviting the viewers to reflect on “how people conduct their lives, live around each other, and order society,” as he describes. While stylistically varied, certain materials recur throughout his oeuvre, especially salvaged wood and electrical colors in fluorescent paint.</p>\n"
+    }
+},
+{
+    "href": "/artist/leonor-fini",
+    "slug": "leonor-fini",
+    "name": "Leonor Fini",
+    "formattedNationalityAndBirthday": "Argentine, 1907–1996",
+    "counts": {
+        "artworks": 289,
+        "forSaleArtworks": 200,
+        "partnerShows": 27
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6HpyeiD7VXZsfq1nxgm7jA%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6HpyeiD7VXZsfq1nxgm7jA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6HpyeiD7VXZsfq1nxgm7jA%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": [
+        "Tate|The Metropolitan Museum of Art|Art Institute of Chicago"
+    ],
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Leonor Fini’s mid-century paintings feature dreamlike scenes in which dominant women and passive men undercut traditional notions of sex and gender. Nude or heavily costumed, Fini’s characters embrace humor, eroticism, and mythological symbolism. The Argentine-born, Italian-raised artist was a friend and contemporary of key members of the <a href=\"https://www.artsy.net/gene/surrealism\">Surrealist</a> movement and featured in the <a href=\"https://www.artsy.net/museum-of-modern-art\">Museum of Modern Art</a>’s groundbreaking “Fantastic Art, Dada and Surrealism” exhibition in 1936. While her works embrace strangeness and the uncanny, Fini refused to label herself a Surrealist due to the group’s misogynist element. Her work has been exhibited in New York, Rome, Paris, and London, and she participated in the Venice Biennale and São Paulo Biennial on multiple occasions. Today, her work sells for six figures on the secondary market and belongs to the permanent collections of the <a href=\"https://www.artsy.net/metmuseum\">Metropolitan Museum of Art</a>, <a href=\"https://www.artsy.net/tate\">Tate Modern</a>, and <a href=\"https://www.artsy.net/centrepompidou\">Centre Georges Pompidou</a>, among other institutions. Along with her maximalist paintings, Fini is also known for her delicate drawings.</p>\n"
+    }
+},
+{
+    "href": "/artist/jeremy-mann",
+    "slug": "jeremy-mann",
+    "name": "Jeremy Mann",
+    "formattedNationalityAndBirthday": "American, b. 1979",
+    "counts": {
+        "artworks": 215,
+        "forSaleArtworks": 84,
+        "partnerShows": 19
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F4h_lwC3y0FYvb_Sq6oTeJQ%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F4h_lwC3y0FYvb_Sq6oTeJQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F4h_lwC3y0FYvb_Sq6oTeJQ%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Jeremy Mann paints with an unmistakable <a href=\"https://www.artsy.net/gene/gestural\">gestural style</a>. Recalling the works of <a href=\"https://www.artsy.net/gene/impressionism\">Impressionists</a> <a href=\"https://www.artsy.net/artist/james-abbott-mcneill-whistler\">James Abbott McNeill Whistler</a> and <a href=\"https://www.artsy.net/artist/john-singer-sargent\">John Singer Sargent</a> as much as <a href=\"https://www.artsy.net/gene/contemporary-figurative-painting\">contemporary figurative art</a>, Mann’s paintings range from moody <a href=\"https://www.artsy.net/gene/cityscapes-and-city-scenes\">cityscapes</a> of New York and San Francisco to <a href=\"https://www.artsy.net/gene/erotic\">sensuous</a> <a href=\"https://www.artsy.net/gene/contemporary-portrait-painting\">portraits</a> of <a href=\"https://www.artsy.net/gene/nude\">the female form</a>. Executed on <a href=\"https://www.artsy.net/gene/large-scale-painting\">large-scale</a> <a href=\"https://www.artsy.net/gene/wood\">wooden panels</a>, Mann’s <a href=\"https://www.artsy.net/gene/dreams-slash-altered-states-of-consciousness\">dreamlike</a> paintings burst with frenetic energy that comes from the artist’s deep understanding of <a href=\"https://www.artsy.net/gene/light-as-subject\">light</a>. In his nocturnal urban landscapes, he invites the viewer into his brooding world, his paintings gleaming with softly flickering street lights and reflections on wet pavement. Praised by both critics and collectors, Mann’s works have been featured in <em>American Art Collector</em> magazine and have been shown internationally. Mann was the subject of the 2015 documentary_ A Solitary Mann_.</p>\n"
+    }
+},
+{
+    "href": "/artist/james-blake",
+    "slug": "james-blake",
+    "name": "James Blake",
+    "formattedNationalityAndBirthday": "",
+    "counts": {
+        "artworks": 18,
+        "forSaleArtworks": 14,
+        "partnerShows": 2
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FaIPv05ZAL7zw2cYeWCVfbQ%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FaIPv05ZAL7zw2cYeWCVfbQ%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FaIPv05ZAL7zw2cYeWCVfbQ%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": ""
+    }
+},
+{
+    "href": "/artist/amber-goldhammer",
+    "slug": "amber-goldhammer",
+    "name": "Amber Goldhammer",
+    "formattedNationalityAndBirthday": "American, b. 1979",
+    "counts": {
+        "artworks": 208,
+        "forSaleArtworks": 121,
+        "partnerShows": 32
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6k8SLvxnQrZdGtnhheZW5w%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6k8SLvxnQrZdGtnhheZW5w%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F6k8SLvxnQrZdGtnhheZW5w%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": "<p>Amber Goldhammer paints vibrant compositions with a street sensibility. After covering her canvases with bold, gestural brushstrokes, she adds layers of graffiti-style text—the words “I love you” are a frequent motif—and familiar shapes such as hearts, flowers, and Pac-Man ghosts. Goldhammer aims to convey a message of love and hope. Her work has been exhibited in New York, Dallas, Toronto, Hong Kong, and Zürich, among other cities, and appeared in such TV series as <em>Being Mary Jane</em>, <em>Scandal</em>, and <em>Silicon Valley</em>. In 2020, Goldhammer collaborated with Isabel Marant on the French designer’s spring/summer 2021 collection. </p>\n"
+    }
+},
+{
+    "href": "/artist/odinakachi-okoroafor",
+    "slug": "odinakachi-okoroafor",
+    "name": "Odinakachi Okoroafor",
+    "formattedNationalityAndBirthday": "Nigerian, b. 1989",
+    "counts": {
+        "artworks": 38,
+        "forSaleArtworks": 10,
+        "partnerShows": 8
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FbGNYZz0a6v4l9i10AVA5VA%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FbGNYZz0a6v4l9i10AVA5VA%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FbGNYZz0a6v4l9i10AVA5VA%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": ""
+    }
+},
+{
+    "href": "/artist/suanjaya-kencut",
+    "slug": "suanjaya-kencut",
+    "name": "Suanjaya Kencut",
+    "formattedNationalityAndBirthday": "Indonesian, b. 1994",
+    "counts": {
+        "artworks": 95,
+        "forSaleArtworks": 37,
+        "partnerShows": 15
+    },
+    "avatar": {
+        "cropped": {
+            "src": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F0KDAutUzghmC-JOVCqJLhg%2Flarge.jpg&width=45",
+            "srcSet": "https://d7hftxdivxxvm.cloudfront.net?height=45&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F0KDAutUzghmC-JOVCqJLhg%2Flarge.jpg&width=45 1x, https://d7hftxdivxxvm.cloudfront.net?height=90&quality=50&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F0KDAutUzghmC-JOVCqJLhg%2Flarge.jpg&width=90 2x"
+        }
+    },
+    "collections": null,
+    "biographyBlurb": {
+        "credit": null,
+        "partnerID": null,
+        "text": ""
+    }
+}
+]
