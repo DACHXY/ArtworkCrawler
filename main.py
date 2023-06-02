@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, Union
 from requests import Session, Response
 from bs4 import BeautifulSoup, ResultSet
 import re
@@ -86,7 +86,7 @@ class ArtworkSearcher:
 
         # Get all href element
         for link in links:
-            refind: re.Match[str] | None = re.search(self.regex_str, link)
+            refind: Union(re.Match[str], None) = re.search(self.regex_str, link)
 
             # regex not found
             if not refind:
