@@ -13,7 +13,7 @@ class User(DBModel):
     email: DBType.String = DBType.String(n=True, var=True, len=255)
     hashed_password: DBType.String = DBType.String()
     create_at: DBType.DateTime = DBType.DateTime()
-    artist_id: DBType.Int = DBType.Int(fr)
+    artist_id: DBType.Int = DBType.Int()
 
 
 class Artist(DBModel):
