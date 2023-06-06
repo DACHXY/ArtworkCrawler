@@ -29,14 +29,36 @@ artwork_json = json.load(open("data/Artworks.json"))
 print("ARTIST: ", len(artist_json))
 print("ARTWORK: ", len(artwork_json))
 
+artist_slug_list = [artist["slug"] for artist in artist_json]
+artist_added_slug = []
+artwork_added_slug = []
+
 for artist in artist_json:
-    artist_data = (artist["slug"], artist["name"], artist["biographyBlurb"]["text"], artist["avatar"]["cropped"]["src"])
-    # insert_artist(cursor=cursor, artist_data=artist_data)
-
-
+    slug = artist["slug"]
+    if slug in artist_added_slug:
+        continue
+    artist_added_slug.append(slug)
+    artist_data = (slug, artist["name"], artist["biographyBlurb"]["text"], artist["avatar"]["cropped"]["src"])
+    insert_artist(cursor=cursor, artist_data=artist_data)
 
 for artwork in artwork_json:
     slug = artwork["artistName"] + "-"+ "-".join(artwork["artworkName"].split(" "))
+
+    if slug in artwork_added_slug:
+        print("S ERROR")
+        continue
+    if artwork["artistName"] not in artist_slug_list:
+        print("N ERROR")
+        continue
+    if artwork.get("Prices") == None:
+        continue
+    if artwork.get("images") == None:
+        continue
+    if len(artwork.get("images")) == 0:
+        continue
+
+    artwork_added_slug.append(slug)
+    
     price = artwork["Prices"].get("minor")
     if price is None:
         price = int(artwork["Prices"].get("maxPrice").get("minor")) / 10
@@ -53,7 +75,7 @@ for artwork in artwork_json:
                     "\'"+artwork["medium"]+"\'",
                     artwork["images"][0]
                     )
-    # insert_artwork(cursor=cursor, artwork_data=artwork_data)
+    insert_artwork(cursor=cursor, artwork_data=artwork_data)
 
-# cursor.commit()
+cursor.commit()
 cursor.close()
