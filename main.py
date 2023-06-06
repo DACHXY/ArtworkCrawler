@@ -155,12 +155,11 @@ class ArtworkSearcher:
         jsonList = json.loads(req.content)
         return jsonList
 
-
-# Main Function
-def main():
+# crawl Function
+def crawl(url):
     artworkSearcher = ArtworkSearcher(
         base_url=BASEURL,
-        page_url=URL,
+        page_url=url,
         api_url=API_URL,
         regex_str=r"/artwork/([a-z-A-Z0-9]+)",
     )
@@ -244,6 +243,11 @@ def main():
             wirte_to_file(artist_info, STORE_ARTIST_NAME)
 
         print("\r" + artwork_name + " ==> 完成")
+
+# Main Function
+def main():
+    for page_code in range(1,20):
+        crawl(URL + f"?page={page_code}")
 
 
 if __name__ == "__main__":
