@@ -1,11 +1,11 @@
 import pyodbc
 
 # config
-SERVER = "localhost"
+SERVER = "sql-server-2"
 DBNAME = "ArtworkDB"
 USERNAME = "sa"
 PASSWORD = "Danny10132024..."
-DRIVER = "ODBC Driver 17 for SQL Server"
+DRIVER = "ODBC Driver 18 for SQL Server"
 
 conn_str = (
     f"DRIVER={{{DRIVER}}};"

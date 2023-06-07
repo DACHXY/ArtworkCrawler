@@ -79,23 +79,23 @@ CREATE TABLE user_cart_item (
     PRIMARY KEY (user_id, artwork_slug)
 );
 
-CREATE TABLE user_liked_artist (
-    user_id uniqueidentifier,
-    artist_slug NVARCHAR(255),
-    create_at DATETIME,
-    FOREIGN KEY (user_id) REFERENCES users(id),
-    FOREIGN KEY (artist_slug) REFERENCES artist(slug),
-    PRIMARY KEY (user_id, artist_slug)
-);
+-- CREATE TABLE user_liked_artist (
+--     user_id uniqueidentifier,
+--     artist_slug NVARCHAR(255),
+--     create_at DATETIME,
+--     FOREIGN KEY (user_id) REFERENCES users(id),
+--     FOREIGN KEY (artist_slug) REFERENCES artist(slug),
+--     PRIMARY KEY (user_id, artist_slug)
+-- );
 
-CREATE TABLE user_liked_artwork (
-    user_id uniqueidentifier,
-    artwork_slug NVARCHAR(255),
-    create_at DATETIME,
-    FOREIGN KEY (user_id) REFERENCES users(id),
-    FOREIGN KEY (artwork_slug) REFERENCES artwork(slug),
-    PRIMARY KEY (user_id, artwork_slug)
-);
+-- CREATE TABLE user_liked_artwork (
+--     user_id uniqueidentifier,
+--     artwork_slug NVARCHAR(255),
+--     create_at DATETIME,
+--     FOREIGN KEY (user_id) REFERENCES users(id),
+--     FOREIGN KEY (artwork_slug) REFERENCES artwork(slug),
+--     PRIMARY KEY (user_id, artwork_slug)
+-- );
 
 CREATE TABLE user_order (
     order_id INT IDENTITY(1, 1) PRIMARY KEY,

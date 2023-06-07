@@ -26,7 +26,6 @@ def insert_artist(cursor, artist_data):
         sql = "INSERT INTO artist (slug, name, biography, avatar) VALUES (?, ?, ?, ?)"
         cursor.execute(sql, artist_data)
         
-        print("插入資料成功")
     except Exception as e:
         print("資料庫錯誤:", e)
 
@@ -59,7 +58,6 @@ def main():
         slug = artwork["artistName"] + "-"+ "-".join(artwork["artworkName"].split(" "))
 
         if slug in artwork_added_slug:
-            print("S ERROR")
             continue
         if artwork["artistName"] not in artist_slug_list:
             print("N ERROR")
