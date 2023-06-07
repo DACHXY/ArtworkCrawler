@@ -100,6 +100,7 @@ CREATE TABLE user_liked_artwork (
 CREATE TABLE user_order (
     order_id INT IDENTITY(1, 1) PRIMARY KEY,
     user_id uniqueidentifier,
+    create_at DATETIME,
     FOREIGN KEY (user_id) REFERENCES users(id)
 );
 
