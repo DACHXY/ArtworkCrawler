@@ -101,13 +101,13 @@ CREATE TABLE user_order (
     order_id INT IDENTITY(1, 1) PRIMARY KEY,
     user_id uniqueidentifier,
     create_at DATETIME,
-    FOREIGN KEY (user_id) REFERENCES users(id)
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 );
 
 CREATE TABLE user_order_item (
     order_id INT,
     artwork_slug NVARCHAR(255),
     FOREIGN KEY (artwork_slug) REFERENCES artwork(slug),
-    FOREIGN KEY (order_id) REFERENCES user_order(order_id),
+    FOREIGN KEY (order_id) REFERENCES user_order(order_id) ON DELETE CASCADE,
     PRIMARY KEY (order_id, artwork_slug)
 );
