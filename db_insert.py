@@ -16,17 +16,37 @@ def insert_artwork(cursor, artwork_data):
     INSERT INTO artwork (slug, artwork_name, artist_slug, price, size_in, size_cm, description, additional_information, material, medium, image)
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     """
+    
+    fsql = """
+    INSERT INTO artwork (slug, artwork_name, artist_slug, price, size_in, size_cm, description, additional_information, material, medium, image)
+    VALUES ('{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}')
+    """
 
     # 執行插入資料的 SQL 指令
     cursor.execute(sql, artwork_data)
-    return cursor.mogrify(sql, artwork_data)
+    
+    artwork_list = list(artwork_data)
+    
+    for i in range(len(artwork_list)):
+        if type(artwork_list[i]) == str:
+            artwork_list[i] = artwork_list[i].replace("'", "''")
+    artwork_data = tuple(artwork_list) 
+    return fsql.format(*artwork_data).replace("\n", "").replace("\t", "")
     
 def insert_artist(cursor, artist_data):
     try:
         # 執行插入資料的 SQL 指令
         sql = "INSERT INTO artist (slug, name, biography, avatar) VALUES (?, ?, ?, ?)"
+        fsql = "INSERT INTO artist (slug, name, biography, avatar) VALUES ('{}', '{}', '{}', '{}')"
         cursor.execute(sql, artist_data)
-        return cursor.mogrify(sql, artist_data)
+        
+        artist_list = list(artist_data)
+        for i in range(len(artist_list)):
+            if type(artist_list[i]) == str:
+                artist_list[i] = artist_list[i].replace("'", "''")
+        artist_data = tuple(artist_list) 
+        return fsql.format(*artist_data).replace("\n", "").replace("\t", "")
+    
     except Exception as e:
         print("資料庫錯誤:", e)
 
@@ -92,6 +112,7 @@ def main():
         sql = insert_artwork(cursor=cursor, artwork_data=artwork_data)
         sql_file.write(sql + "\n")
         
+    sql_file.close()
     cursor.commit()
     cursor.close()
     

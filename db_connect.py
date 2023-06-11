@@ -1,7 +1,7 @@
 import pyodbc
 
 # config
-SERVER = "localhost"
+SERVER = "sql-server-2,1433"
 DBNAME = "ArtworkDB"
 USERNAME = "sa"
 PASSWORD = "Danny10132024..."
